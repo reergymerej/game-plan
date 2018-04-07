@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "test": "jest --bail",
+    "start": "nodemon index.js"
+  },
+  "devDependencies": {
+    "jest": "^22.4.3",
+    "nodemon": "^1.17.3"
+  }
+}
